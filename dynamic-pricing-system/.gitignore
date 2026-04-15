@@ -1,0 +1,58 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+ 
+# Environment
+.env
+.env.local
+ 
+# Data
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+ 
+# Models
+models/
+mlruns/
+*.pkl
+*.joblib
+*.h5
+ 
+# Logs
+logs/
+*.log
+ 
+# Database
+*.db
+*.sqlite
+ 
+# OS
+.DS_Store
+Thumbs.db
+ 
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+ 
+# Distribution
+dist/
+build/
+*.egg-info/
+
+
+venv_DYC/
